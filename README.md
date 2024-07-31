@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soner</h1>
-<h3 align="center">Junior .Net Developer</h3>
+<h3 align="center">Junior Back-End Developer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Angular, Microservices, etc..**
 
