@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soner</h1>
 <h3 align="center">Junior Back-End Developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Angular, Microservices, etc..**
+- 🌱 I’m currently learning ** Angular, Advanced Programming C#, Microservices, etc..**
 
 - 📫 How to reach me **thes0ner@outlook.com**
 
